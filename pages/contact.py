@@ -1,9 +1,18 @@
 import streamlit as st
-# wcvh dkrs okfy swom
+from send_email import send_email
 st.header("contact Me")
 with st.form(key="email_form"):
     user_email = st.text_input("Email address")
-    messege = st.text_area("Yout message")
+    raw_messege = st.text_area("Yout message")
+  
+    messege = f"""\
+Subject:New email from {user_email}
+
+From : {user_email}
+{raw_messege}
+""" 
     button = st.form_submit_button("Submit")
     if button:
-        print("pressed")
+        send_email(messege)
+        st.info("email send successfully.....")
+        
