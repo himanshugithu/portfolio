@@ -1,0 +1,10 @@
+ for index, row in df.iterrows():
+        st.write(row["collage"])
+        st.write(row["degree"])
+        st.write(row["percentage"])
+        st.write(row["year"])
+
+
+        .custom-line-space {
+            line-height: 2;  /* Adjust the value to increase or decrease line space */
+        }
