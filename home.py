@@ -39,9 +39,9 @@ with col3:
 
 #----------------------------web link--------------------------
     st.markdown(f"""<h4>{unicode[1]} Web links </h4>""",unsafe_allow_html=True)
-    st.write(f"[Github]({"https://github.com/himanshugithu?tab=repositories"})")
-    st.write(f"[Linkdin]({"https://www.linkedin.com/in/himanshu-fanibhare-11718b2a8/"})")
-    st.write(f"[Instagram - The_electrogenic]({"https://www.instagram.com/the_electrogenic/"})")
+    st.write(f"""[Github]({"https://github.com/himanshugithu?tab=repositories"})""")
+    st.write(f"""[Linkdin]({"https://www.linkedin.com/in/himanshu-fanibhare-11718b2a8/"})""")
+    st.write(f"""[Instagram - The_electrogenic]({"https://www.instagram.com/the_electrogenic/"})""")
 
 #--------------------------co curricular activities-------------------------------------
     st.markdown(f"""<h4>{unicode[1]} Extra curricular </h4>""",unsafe_allow_html=True)
