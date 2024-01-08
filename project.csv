@@ -3,14 +3,20 @@ Guess the number using arduino and keypad;Arduino;   The Arduino-based "Guess th
 Hand guesture using arduino and flex sensor;Arduino;   Hand gesture recognition using Arduino and flex sensors is an innovative project that allows users to interact with electronic devices through hand movements. Flex sensors are used to detect changes in the bending of fingers, enabling the system to recognize predefined hand gestures. This project is particularly useful in applications where touchless control is desired, such as in robotics, home automation, or virtual reality.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;two_ard.jpg;
 Home automaion ;Arduino;Home automation using HC-05 Bluetooth module and Arduino enables users to control various household appliances wirelessly through a mobile application. The project leverages the Bluetooth communication capabilities of the HC-05 module to establish a connection between the Arduino and a mobile device, allowing users to remotely control lights, fans, and other devices.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;three_ard.jpg;https://drive.google.com/file/d/1IbrZnpTC0PArBcEXsZJOTlOSPqEx5Mrx/view?usp=drive_link
 Wireless Bot using bluetooth;Arduino;The Wireless Bot using Bluetooth is a robotics project that involves creating a remotely controlled robot using Bluetooth communication. This project allows users to wirelessly control the movements and actions of the robot using a mobile device or a computer with Bluetooth capabilities.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;four_ard.jpg;https://drive.google.com/file/d/1PbR9xlRk_Zch13MHizv702SZRXpiMZkG/view?usp=sharing
+Real-Time & Weather Monitoring with Arduino;Arduino;Create a real-time weather display using Arduino that provides the current time, temperature, and humidity. This project combines the functionality of a real-time clock (RTC) module, a temperature and humidity sensor, and a display module to present useful information at a glance.;https://github.com/himanshugithu/Arduino-Projects/tree/main/tepm_and_clock;five_ard.jpg;https://www.instagram.com/p/CRWyTY-gPke/?utm_source=ig_web_copy_link&igsh=YzZhZTZiNWI3Nw==
+
+
 
 waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
 waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
 waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
 waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
 
-web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
-web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
-web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
-web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
-web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
+Todo List(CLI,GUI,WEB based);python;jdhfuoHAODFBFOSFbo;https://github.com/himanshugithu/Python-Projects/tree/main/Todo%20app;one_py.jpg;https://drive.google.com/drive/folders/1VXCqimmrQjoH_Hb9Jsrds1csTzo40yZv?usp=sharing
+Hand Gesture-Controlled LED Brightness using OpenCV, MediaPipe, and Arduino;python;Create an interactive system that allows users to control the brightness of an LED using hand gestures. The project uses OpenCV and MediaPipe for hand detection and gesture recognition. The detected hand gestures are then translated into commands to adjust the brightness of an LED connected to an Arduino.;https://github.com/himanshugithu/Python-Projects/tree/main/hand_tracking;two_py.jpg;https://www.instagram.com/p/Cn8zbVcLozy/?utm_source=ig_web_copy_link&igsh=YzZhZTZiNWI3Nw==
+
+Hand Gesture-Controlled and Seven-Segment Display using OpenCV, MediaPipe, and Arduino;python;This project combines computer vision, hand gesture recognition using OpenCV and MediaPipe, and hardware interaction with an Arduino-driven seven-segment display. The system captures real-time hand gestures through a webcam, processes the data in Python, and communicates the corresponding instructions to an Arduino board, which display the number on the seven-segment display.;https://github.com/himanshugithu/Python-Projects/tree/main/display%20no%20using%20finger%20Gesture;three_py.jpg;https://www.instagram.com/p/Cn8zbVcLozy/?utm_source=ig_web_copy_link&igsh=YzZhZTZiNWI3Nw%3D%3D&img_index=2
+
+Zip Archiver;python;The Python Zip Extractor project is designed to create a user-friendly tool for efficiently extracting files from ZIP archives. Leveraging Python's built-in zipfile module, this project allows users to select a ZIP archive and extract its contents to a specified destination. The extractor can be operated through a command-line interface (CLI) or a graphical user interface (GUI) for ease of use.;https://github.com/himanshugithu/zip_extract;zip.png
+
+Portfolio;python;The Portfolio Site using Python Streamlit project is aimed at creating a dynamic and interactive web-based portfolio to showcase personal or professional achievements, projects, and skills. Leveraging the Streamlit library in Python, this project provides an easy and efficient way to create a visually appealing portfolio without the need for extensive web development knowledge.;https://github.com/himanshugithu/portfolio;portfolio.png

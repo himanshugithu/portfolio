@@ -4,7 +4,6 @@ import pandas as pd
 unicode = ['\u2022','\u2713']#bullet ,checkmark
 st.set_page_config(layout='wide') 
 col1, col2,dumy = st.columns([0.5,0.5,0.5])
-
 with col1 :
     st.image('image/himanshu.png',width=250)
 

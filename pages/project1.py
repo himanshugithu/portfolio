@@ -14,7 +14,7 @@ python_projects = project[project['category'] == 'python']
 with tab1:
    st.header("Arduino")
    for index, row in arduino_projects.iterrows():
-      st.title(f"{index+1}.{row["project_name"]}")
+      st.markdown(f"""<h4>{index+1}.{row["project_name"]}</h4>""", unsafe_allow_html=True)
       st.image("image/"+ row["image"])
       st.write(f"[source code]({row["link"]})")
       st.write(f"[Video]({row["video"]})")
@@ -23,14 +23,14 @@ with tab1:
       st.markdown("""---""")   
         
 with tab2:
-   st.header("ESP")
-   for index, row in esp_projects.iterrows():
-      st.header(row["project_name"])
-      st.image("image/"+ row["image"])
-      st.write(f"[source code]({row["link"]})")
-      with st.expander("Description"):
-         st.write(row["description"])
-      st.markdown("""---""")  
+   st.header("Comming soon.....")
+   # for index, row in esp_projects.iterrows():
+   #    st.header(row["project_name"])
+   #    st.image("image/"+ row["image"])
+   #    st.write(f"[source code]({row["link"]})")
+   #    with st.expander("Description"):
+   #       st.write(row["description"])
+   #    st.markdown("""---""")  
 
 with tab3:
    st.header("Python")
@@ -38,7 +38,7 @@ with tab3:
       st.header(row["project_name"])
       st.image("image/"+ row["image"])
       st.write(f"[source code]({row["link"]})")
-      
+      st.write(f"[Video]({row["video"]})")
       with st.expander("Description"):
          st.write(row["description"])
       st.markdown("""---""")   

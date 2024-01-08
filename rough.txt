@@ -24,7 +24,7 @@ title;description;url;image
 Bluetooth home automation;this ;;
 Guess the number using arduino and keypad;guess the number;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number
 
-
+st.title(f"{index+1}.{row["project_name"]}")
 # with col4:
 #     for index, row in df[len(df)//2:].iterrows():
 #         st.header(row["title"])
