@@ -16,8 +16,8 @@ with tab1:
    for index, row in arduino_projects.iterrows():
       st.markdown(f"""<h4>{index+1}.{row["project_name"]}</h4>""", unsafe_allow_html=True)
       st.image("image/"+ row["image"])
-      st.write(f"[source code]({row["link"]})")
-      st.write(f"[Video]({row["video"]})")
+      st.write(f"""[source code]({row["link"]})""")
+      st.write(f"""[Video]({row["video"]})""")
       with st.expander("Description"):
          st.write(row["description"])
       st.markdown("""---""")   
@@ -37,8 +37,8 @@ with tab3:
    for index, row in python_projects.iterrows():
       st.header(row["project_name"])
       st.image("image/"+ row["image"])
-      st.write(f"[source code]({row["link"]})")
-      st.write(f"[Video]({row["video"]})")
+      st.write(f"""[source code]({row["link"]})""")
+      st.write(f"""[Video]({row["video"]})""")
       with st.expander("Description"):
          st.write(row["description"])
       st.markdown("""---""")   
