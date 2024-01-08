@@ -1,0 +1,16 @@
+project_name;category;description;link;image;video
+Guess the number using arduino and keypad;Arduino;   The Arduino-based "Guess the Number" game is a fun and interactive project that challenges the player to guess a randomly generated number within a specified range. The game incorporates input from a player, utilizes Arduino's capabilities to generate random numbers, and provides feedback on each guess.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;one_ard.jpg;https://www.instagram.com/p/CQoee-mgRLS/?utm_source=ig_web_copy_link&igsh=YzZhZTZiNWI3Nw==
+Hand guesture using arduino and flex sensor;Arduino;   Hand gesture recognition using Arduino and flex sensors is an innovative project that allows users to interact with electronic devices through hand movements. Flex sensors are used to detect changes in the bending of fingers, enabling the system to recognize predefined hand gestures. This project is particularly useful in applications where touchless control is desired, such as in robotics, home automation, or virtual reality.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;two_ard.jpg;
+Home automaion ;Arduino;Home automation using HC-05 Bluetooth module and Arduino enables users to control various household appliances wirelessly through a mobile application. The project leverages the Bluetooth communication capabilities of the HC-05 module to establish a connection between the Arduino and a mobile device, allowing users to remotely control lights, fans, and other devices.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;three_ard.jpg;https://drive.google.com/file/d/1IbrZnpTC0PArBcEXsZJOTlOSPqEx5Mrx/view?usp=drive_link
+Wireless Bot using bluetooth;Arduino;The Wireless Bot using Bluetooth is a robotics project that involves creating a remotely controlled robot using Bluetooth communication. This project allows users to wirelessly control the movements and actions of the robot using a mobile device or a computer with Bluetooth capabilities.;https://www.tinkercad.com/things/ctRbZBpI83H-guess-the-number;four_ard.jpg;https://drive.google.com/file/d/1PbR9xlRk_Zch13MHizv702SZRXpiMZkG/view?usp=sharing
+
+waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
+waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
+waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
+waterlogged system;esp;water;dbsoudhcouhasdousah;three.jpg
+
+web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
+web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
+web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
+web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
+web todo;python;jdhfuoHAODFBFOSFbo;havfiaBiddb;one.jpg
