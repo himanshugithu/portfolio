@@ -11,7 +11,7 @@ with col2:
     st.title("Himanshu Fanibhare")    
     content="""Hello,
                My name is himanshu 
-               and current pursuing Btech
+               and currently pursuing Btech
                from the st vincent pallotti collage"""  
     st.info(content)
 
